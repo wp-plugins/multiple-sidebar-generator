@@ -1,6 +1,6 @@
 === Multiple Sidebar Generator ===
 
-Contributors: DS Web Solutions
+Contributors: deepaksharma
 
 Donate link: http://www.dswebsolutions.in/
 
