@@ -4,7 +4,7 @@
   Plugin URI: http://www.dswebsolutions.in/
   Description: This plugin generates as many sidebars as you need.
   Version: 1.0.0
-  Author: Deepak Sharma
+  Author: deepaksharma
   Author URI: http://www.dswebsolutions.in/
  */
 
