@@ -1,0 +1,61 @@
+=== Multiple Sidebar Generator ===
+
+Contributors: DS Web Solutions
+
+Donate link: http://www.dswebsolutions.in/
+
+Tags: posts, taxonomy, posts, widget sidebar area, sidebar generator, multiple sidebars.
+
+Requires at least: 3.0
+
+Tested up to: 4.1.1
+
+Stable tag: 4.1
+
+
+Plugin Generates as many sidebars as you needs Adds in post, page, custom post.
+
+
+
+== Description ==
+
+
+
+Multiple Sidebar Generator Plugin is a light Plugin advanced version of the WordPress Posts widget allowing increased customization to display recent posts and other posts from all categories and taxonomy or from custom post types.
+
+
+
+Features:
+
+* Add Multi Widget Sidebar.
+* Select Different Sidebar in Page/ Post/Costom Posts
+* Display in Appearance Options.
+
+
+
+
+== Installation ==
+
+1. Upload the `multiple-sidebar-generator` folder to the `/wp-content/plugins/` directory
+
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+3. Place and customize your widgets
+
+4. Add Multi Widget Sidebar in Appearance Submenu.
+
+5. Select Different Sidebar for Page/ Post/Costom Posts
+
+== Frequently Asked Questions ==
+
+See documentation at http://www.dswebsolutons.in/
+
+
+
+== Screenshots ==
+
+
+
+== Changelog == 
+
+N/A
