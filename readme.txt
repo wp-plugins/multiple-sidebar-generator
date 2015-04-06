@@ -19,11 +19,7 @@ Plugin Generates as many sidebars as you needs Adds in post, page, custom post.
 
 == Description ==
 
-
-
-Multiple Sidebar Generator Plugin is a light Plugin advanced version of the WordPress Posts widget allowing increased customization to display recent posts and other posts from all categories and taxonomy or from custom post types.
-
-
+Multiple Sidebar Generator Plugin to easily create many custom sidebars. These sidebars can then select in the creation of a post / page / custom post type. We give an order, and select several at once.
 
 Features:
 
