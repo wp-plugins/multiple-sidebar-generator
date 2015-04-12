@@ -50,7 +50,8 @@ See documentation at http://www.dswebsolutons.in/
 
 == Screenshots ==
 
-
+1. Manage Sidebar.
+2. Add Sidebar for the Page/Post/Custom Post type.
 
 == Changelog == 
 
