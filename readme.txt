@@ -1,11 +1,7 @@
 === Multiple Sidebar Generator ===
-
 Contributors: deepaksharma
-
 Donate link: http://www.dswebsolutions.in/
-
-Tags: posts, taxonomy, posts, widget sidebar area, sidebar generator, multiple sidebars.
-
+Tags: sidebars, custom sidebars, dynamic sidebar, simple, widgets, widget sidebar area, multiple sidebars
 Requires at least: 3.0
 
 Tested up to: 4.1.1
@@ -13,9 +9,7 @@ Tested up to: 4.1.1
 Stable tag: 4.1
 
 
-Plugin Generates as many sidebars as you needs Adds in post, page, custom post.
-
-
+Easily assign custom, widget-enabled sidebars to any page.
 
 == Description ==
 
@@ -28,6 +22,14 @@ Features:
 * Display in Appearance Options.
 
 
+= Advanced Usage =
+
+If you want to assign custom sidebars to archive pages or replace multiple sidebars per page, this plugin likely won't be the best solution. However it's flexible enough to handle a wide range of page-based use cases. It can even be configured to work with Custom Post Types by adding a couple lines of code:
+
+`function myprefix_init() {
+	add_post_type_support( '{{post_type}}', 'multiple-sidebar-generator' );
+}
+add_action( 'init', 'myprefix_init' );`
 
 
 == Installation ==
@@ -36,23 +38,8 @@ Features:
 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-3. Place and customize your widgets
-
-4. Add Multi Widget Sidebar in Appearance Submenu.
-
-5. Select Different Sidebar for Page/ Post/Costom Posts
+3. Create and Select Different Sidebar for Page/ Post/Costom Posts
 
 == Frequently Asked Questions ==
 
 See documentation at http://www.dswebsolutons.in/
-
-
-
-== Screenshots ==
-
-1. Manage Sidebar.
-2. Add Sidebar for the Page/Post/Custom Post type.
-
-== Changelog == 
-
-N/A
